@@ -1,0 +1,15 @@
+<ArGpsLocationData>
+	<Entry>
+	<id>0</id>
+	<lat>37.4504442</lat>
+	<lng>126.657479</lng>
+	<altitude>0</altitude>
+	<altitudeMode>GroundRelative</altitudeMode>
+	<name>InDuck</name>
+	<meshId>InDuck</meshId>
+	<movementSmoothing>0.05</movementSmoothing>
+	<maxNumberOfLocationUpdates>0</maxNumberOfLocationUpdates>
+	<useMovingAverage>false</useMovingAverage>
+	<hideObjectUtilItIsPlaced>true</hideObjectUtilItIsPlaced>
+	</Entry>
+</ArGpsLocationData>
